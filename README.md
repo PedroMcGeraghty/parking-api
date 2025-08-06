@@ -1,6 +1,4 @@
-Buen día. Entendido, no vamos a usar Docker. Aquí tienes un archivo `README.md` completo y bien estructurado para tu proyecto de la API de parkings. Este `README` está diseñado para ser claro, profesional y fácil de seguir, cubriendo todos los aspectos que un desarrollador necesitaría para clonar, configurar y probar tu solución, sin necesidad de Docker.
 
------
 
 ### README.md
 
