@@ -1,7 +1,3 @@
-
-
-### README.md
-
 # Parkings API
 
 Esta es una API RESTful para gestionar parkings, con funcionalidades de creación, lectura y búsqueda del parking más cercano a una ubicación dada. La solución está desarrollada en PHP con el framework Laravel y utiliza **SQLite** como base de datos por defecto, lo que facilita su configuración inicial.
