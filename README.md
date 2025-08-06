@@ -20,11 +20,11 @@ Sigue estos pasos para poner en marcha la aplicación en tu entorno local:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [URL_DE_TU_REPOSITO
+    git clone https://github.com/PedroMcGeraghty/parking-api
     ```
 2.  **Acceder al directorio del proyecto:**
     ```bash
-    cd [nombre-del-repositorio]
+    cd https://github.com/PedroMcGeraghty/parking-api
     ```
 3.  **Instalar dependencias:**
     Utiliza Composer para instalar todas las dependencias del proyecto.
