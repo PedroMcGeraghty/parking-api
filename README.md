@@ -53,7 +53,7 @@ Sigue estos pasos para poner en marcha la aplicación en tu entorno local:
 
 ## Endpoints de la API
 
-La API está documentada con anotaciones de **OpenAPI (Swagger)**. Para ver la documentación de forma interactiva, puedes usar una herramienta como Swagger UI.
+La API está documentada con anotaciones de **OpenAPI (Swagger)**. Para ver la documentación de forma interactiva, puedes usar una herramienta como Swagger UI. http://localhost:8000/api/documentation#/
 
 ### Autenticación
 
